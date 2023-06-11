@@ -10,11 +10,6 @@ The caesarCipher function takes in a text and a shift number according to the us
 
 The verschluesseln function is used for taking user input from the text-boxes, using the caesarCipher function to encrypt the input text, and displaying the result on the page.
 
-CSS
 
-Using a monospace font, center aligns for the items and box shadow around the main container. Input fields and buttons are styled for easy use.
-
-HTML
-
-The HTML file houses the basic layout. It includes the input fields, buttons and so on. It's also linked to the .js.
+Interface made with HTML and styled with CSS. Styled for easy use.
 
